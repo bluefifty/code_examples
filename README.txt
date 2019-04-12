@@ -1,1 +1,1 @@
-Hello Git and GitHub
+some code examples i wrote in c++
